@@ -1,6 +1,6 @@
 # Perros calientes
 
-Página interactiva sobre los perros calientes en Colombia: ingredientes, combinaciones y precios de referencia en pesos colombianos (COP). Incluye un armador para elegir pan, salchicha, toppings y salsas, ver el precio y explorar combinaciones sugeridas.
+Página interactiva sobre los perros calientes en Colombia: ingredientes, combinaciones y precios en pesos colombianos (COP). Incluye un armador para elegir pan, salchicha, toppings y salsas, ver el precio y explorar combinaciones sugeridas.
 
 ## Cómo usar
 
@@ -9,7 +9,3 @@ Abre [perros-calientes.html](./perros-calientes.html) en un navegador moderno. N
 ## Precios
 
 Los precios son valores de referencia y pueden variar según la ciudad y el establecimiento.
-
-## Licencia
-
-No se ha especificado una licencia para este proyecto.
